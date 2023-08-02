@@ -180,10 +180,10 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'x_ikratos_x'
-global.stickauth = `「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴋʀᴀᴛᴏs'
+global.stickpack = '𝙹𝙾𝙴𝚈'
+global.stickauth = '@ᴜssᴇғ.ᴇʟᴀʙᴀssɪ'
+global.packname = '@ᴜssᴇғ.ᴇʟᴀʙᴀssɪ'
+global.packname2 = '@ᴜssᴇғ.ᴇʟᴀʙᴀssɪ'
 
 global.multiplier = 38 // The higher, The harder levelup
 
